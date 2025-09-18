@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Pixiv Navigator",
+  "version": "1.0",
+  "description": "用于单次或批量打开pixiv网页的Chrome插件",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://www.pixiv.net/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Pixiv Navigator"
+  }
+}

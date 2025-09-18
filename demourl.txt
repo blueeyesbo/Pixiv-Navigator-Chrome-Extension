@@ -1,0 +1,4 @@
+作品URL示例:https://www.pixiv.net/artworks/{id}
+画师URL示例:https://www.pixiv.net/users/{id}
+漫画URL示例:https://www.pixiv.net/artworks/{id}
+关键词搜索URL示例:https://www.pixiv.net/tags/{keyword}/artworks?s_mode=s_tag

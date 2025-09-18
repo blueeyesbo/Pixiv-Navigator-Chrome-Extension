@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node test_extract.js:*)",
+      "Bash(node comprehensive_test.js:*)",
+      "Bash(node test_tabs.js:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
